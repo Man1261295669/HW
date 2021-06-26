@@ -1,0 +1,1 @@
+When I close the cookie in Internet, all the website can not log in.
